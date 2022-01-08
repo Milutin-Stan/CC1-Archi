@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tp16.4" />
+        <module name="tp16.3" />
+        <module name="tp16.2" />
+        <module name="tp16.1" />
+        <module name="tpCours" />
+        <module name="tp16.7" />
+        <module name="tp16.6" />
+        <module name="tp16.5" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tp1" target="11" />
+      <module name="tp10" target="11" />
+      <module name="tp11" target="11" />
+      <module name="tp12" target="11" />
+      <module name="tp13-parent" target="11" />
+      <module name="tp13.1" target="11" />
+      <module name="tp13.2" target="11" />
+      <module name="tp14-parent" target="11" />
+      <module name="tp14.0" target="11" />
+      <module name="tp14.1" target="11" />
+      <module name="tp14.2" target="11" />
+      <module name="tp14.3" target="11" />
+      <module name="tp14.4" target="11" />
+      <module name="tp14.5" target="11" />
+      <module name="tp14.6" target="11" />
+      <module name="tp15-parent" target="11" />
+      <module name="tp15.1" target="11" />
+      <module name="tp15.2" target="11" />
+      <module name="tp15.3" target="11" />
+      <module name="tp15.4" target="11" />
+      <module name="tp2" target="11" />
+      <module name="tp3" target="11" />
+      <module name="tp4" target="11" />
+      <module name="tp5" target="11" />
+      <module name="tp6" target="11" />
+      <module name="tp7" target="11" />
+      <module name="tp8" target="11" />
+      <module name="tp9" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
